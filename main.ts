@@ -46,8 +46,8 @@ const CANDIDATES: Candidate[] = [
   {
     id: "D-reunion-toast",
     text:
-      "At the reunion dinner, don't stand up and toast 'to the ones who stayed' while your best friend is packing his bags to leave town that night.\n" +
-      "He heard a toast and took it as goodbye, and the two of you never spoke again after the taxi pulled away.",
+      "At the reunion, before you toast 'to the ones who stayed,' check whether Dave is holding a suitcase.\n" +
+      "He's fine. He moved to Lisbon, got rich, and every Christmas sends you a postcard of his yacht signed 'One who didn't.'",
     scores: { onSubject: 5, concrete: 5, causeEffect: 5, unity: 5, voice: 5 },
   },
   {
